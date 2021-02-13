@@ -4,7 +4,6 @@ import projectData from "../Components/Project/projects-data.json";
 
 //Add a filter for products? Nice to have, maybe add later, by subjects?
 
-
 class Projects extends Component {
     constructor(props){
         super(props);

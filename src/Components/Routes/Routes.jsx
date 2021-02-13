@@ -7,8 +7,10 @@ import {
 } from "react-router-dom";
 import Home from "../../Views/Home";
 import Projects from "../../Views/Projects";
+import Resume from "../../Views/Resume";
 import Contact from "../../Views/Contact";
 import NavBar from "../NavBar";
+
 // https://reactrouter.com/web/guides/quick-start
 
 
@@ -24,9 +26,15 @@ const Routes = () => {
             <Route path="/projects">
               <Projects />
             </Route>
+
+            <Route path="/resume">
+              <Resume />
+            </Route>
+
             <Route path="/contact">
               <Contact />
             </Route>
+
             <Route path="/">
               <Home />
             </Route>

@@ -2,16 +2,16 @@ import React from 'react';
 import {Link, useLocation} from 'react-router-dom';
 
 const NavBar = () => {
-    let HomeP, ProjectsP, ContactP;
+    let HomeP, ProjectsP, ResumeP, ContactP;
     const currentLocation = useLocation();
-  
-  // console.log(useLocation());
-  
+    //console.log(useLocation());
     if (currentLocation.pathname === "/") {
         HomeP = 'active';
     } else if (currentLocation.pathname === "/projects") {
         ProjectsP = 'active';
-    } else if (currentLocation.pathname === "/contact") {
+    } else if (currentLocation.pathname === "/resume"){
+        ResumeP = 'active';
+    }else if (currentLocation.pathname === "/contact") {
         ContactP = 'active';
     }
   
@@ -29,6 +29,13 @@ const NavBar = () => {
                     to="/projects">
                       Projects
                   </Link></li>
+
+                  <li><Link 
+                    className={ResumeP}
+                    to="/resume">
+                      Resume
+                  </Link></li>
+
                   <li><Link 
                     className={ContactP}                     
                     to="/contact">
@@ -38,7 +45,7 @@ const NavBar = () => {
           </nav>
       </div>
     )
-  }
+  };
   
   export default NavBar;
   
