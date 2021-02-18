@@ -1,0 +1,18 @@
+.footer {
+    background-color: #131313;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footerIcons span {
+    font-size: 1.5rem;
+    padding: 5px;
+    margin: 0;
+}
+
+.footer .update {
+    font-size: .5rem;
+}

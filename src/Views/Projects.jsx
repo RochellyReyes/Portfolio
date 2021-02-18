@@ -1,6 +1,8 @@
 import React, {Component} from "react";
 import Project from "../Components/Project/Project";
 import projectData from "../Components/Project/projects-data.json";
+import Footer from '../Components/Footer';
+
 
 //Add a filter for products? Nice to have, maybe add later, by subjects?
 
@@ -28,19 +30,8 @@ class Projects extends Component {
         });
         return(
             <div>
-                <h1>Projects</h1>
-                <h2>Test</h2>
-                <p>Mauris sem velit, vehicula eget sodales vitae,
-                rhoncus eget sapien:</p>
-                <ol>
-                    <li>Nulla pulvinar diam</li>
-                    <li>Facilisis bibendum</li>
-                    <li>Vestibulum vulputate</li>
-                    <li>Eget erat</li>
-                    <li>Id porttitor</li>
-                </ol>
                 {DisplayProjects}
-
+                <Footer/>
             </div>
         )
     }

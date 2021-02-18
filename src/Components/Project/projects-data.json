@@ -1,17 +1,17 @@
 [
     {
-        "name":"test",
-        "image":"",
-        "alt":"",
-        "description":"test",
-        "link":"test"
+        "name":"Gateway Project: Bora Bora",
+        "image":"/images/projects/Bora-Bora.png",
+        "alt":"Gateway Bora Bora Project Home page",
+        "description":"The first project ever created by yours-truly in September 2020. It consist of HTML and CSS. A bit of context, this project focused on a location we, the cohort, wanted to visit. In the website, we included a home page, activities and accommodations page, and a contact us page. This was definitely one of the hardest projects as I did not previously have much experience with websites so I am proud of the functionality and it looks pretty nice for my first website. Web page is CSS and HTML validated by W3C Markup Validation Services.",
+        "link":"https://github.com/RochellyReyes/Gateway-BoraBora"
     },
     {
-        "name":"",
-        "image":"",
-        "alt":"",
-        "description":"",
-        "link":""
+        "name":"Reservation App: El Amingo Pub & Grill",
+        "image":"/images/projects/reservation-app.png",
+        "alt":"El Amigo Reservation page",
+        "description":"A reservation app created with HTML and CSS. The purpose was to create a simple form that looks clean and user-friendly while practicing more CSS. Created in early October 2020.",
+        "link":"https://github.com/RochellyReyes/reservePage"
     },
     {
         "name":"",
