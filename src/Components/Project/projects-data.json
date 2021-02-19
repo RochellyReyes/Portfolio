@@ -1,9 +1,9 @@
 [
     {
         "name":"Gateway Project: Bora Bora",
-        "image":"/images/projects/Bora-Bora.png",
+        "image":"/images/projects/bora-bora.png",
         "alt":"Gateway Bora Bora Project Home page",
-        "description":"The first project ever created by yours-truly in September 2020. It consist of HTML and CSS. A bit of context, this project focused on a location we, the cohort, wanted to visit. In the website, we included a home page, activities and accommodations page, and a contact us page. This was definitely one of the hardest projects as I did not previously have much experience with websites so I am proud of the functionality and it looks pretty nice for my first website. Web page is CSS and HTML validated by W3C Markup Validation Services.",
+        "description":"The first project ever created by yours-truly in September 2020. It consists of HTML and CSS. A bit of context, this project focused on a location I wanted to visit. The website includes a home page, activities and accommodations page, and a contact us page. This was one of the hardest projects as I did not previously have much experience with websites so I am proud of the functionality and it looks pretty nice for my first website. This web page is CSS and HTML validated by W3C Markup Validation Services.",
         "link":"https://github.com/RochellyReyes/Gateway-BoraBora"
     },
     {
@@ -14,11 +14,32 @@
         "link":"https://github.com/RochellyReyes/reservePage"
     },
     {
-        "name":"",
-        "image":"",
-        "alt":"",
-        "description":"",
-        "link":""
+        "name":"Guessing Game: Voice Recognition API",
+        "image":"/images/projects/voice-guessing.png",
+        "alt":"Voice Recognition API Gessing game app",
+        "description":"Guess your number 1 - 100 into the mic. This app is created with HTML, CSS, and JS to create an interactive guessing game. Dom manipulation and external API used. Responsive design.",
+        "link":"https://github.com/RochellyReyes/Guessing_Game_Voice"
+    },
+    {
+        "name":"Guessing Game: Manual Input",
+        "image":"/images/projects/manual-guessing.png",
+        "alt":"Guessing game manual input home page",
+        "description":"Retro guessing game with manual input using HTML, CSS, and JS (DOM manipulation). Guess a number between 1 - 20. Once you guess the right number the screen will turn green. Hooray. Make more than 20 guesses and it's game over, the screen will turn red.",
+        "link":"https://github.com/RochellyReyes/Guessing_Game_Manual_Input"
+    },
+    {
+        "name":"Animated Navigation Bar",
+        "image":"/images/projects/js-ham-nav.png",
+        "alt":"Animated Navigation Bar",
+        "description":"Using HTML, CSS, and JS to create a animated hamburger style navigation bar.",
+        "link":"https://github.com/RochellyReyes/JS_HamburgerNavBar"
+    },
+    {
+        "name":"To Do App: React",
+        "image":"/images/projects/to-do-react.png",
+        "alt":"react to do app ",
+        "description":"A Simple To-Do App. Includes ReactJS and CSS. One of the first projects made when learning react. Type in your list item and press enter. This time will appear below in bullet point format. ",
+        "link":"https://github.com/RochellyReyes/To-Do-App"
     },
     {
         "name":"",
@@ -35,38 +56,24 @@
         "link":""
     },
     {
-        "name":"",
-        "image":"",
-        "alt":"",
-        "description":"",
-        "link":""
+        "name":"Pet Ace: A Pet Store",
+        "image":"/images/projects/pet-ace.png",
+        "alt":"Pet ace home page, a pet store",
+        "description":"Pet Ace is an eCommerce website created with ReactJS and CSS. Packages included are React Router DOM, React Slideshow Images, and Font Awesome Icons. This site is responsive for mobile and tablet. Users can use a filter to sort through products. Repository version 1 can be found as eCommerce-Project-R2H. Current repository can be found as Pet-Ace-Ecommerce.",
+        "link":"https://petace.netlify.app/"
     },
     {
-        "name":"",
-        "image":"",
-        "alt":"",
-        "description":"",
-        "link":""
+        "name":"Skylark Social: React Friends App",
+        "image":"/images/projects/skylark-social.png",
+        "alt":"skylark social log in page",
+        "description":"This basic social platform is created with ReactJS, SASS, Node, and MySQL. Interactive. To Login use username: 'Test', password: 'pass'. View your list of friends and check out the social button to see different users with a quick blurb about their favorite quote. Primarily used to practice MySQL on a website.",
+        "link":"https://github.com/RochellyReyes/Skylark_Social"
     },
     {
-        "name":"",
-        "image":"",
-        "alt":"",
-        "description":"",
-        "link":""
-    },
-    {
-        "name":"",
-        "image":"",
-        "alt":"",
-        "description":"",
-        "link":""
-    },
-    {
-        "name":"",
-        "image":"",
-        "alt":"",
-        "description":"",
-        "link":""
+        "name":"Redesign: Tesla",
+        "image":"/images/projects/inprogress.png",
+        "alt":"redesign: Telsa in proggress",
+        "description":"Group project where we are redesigning  Telsa's website using ReactJS, MySQL, external API, and CSS. Packages used so far are React Router Dom and React Icons. Currently a work in progress. Get a sneak-peak by clicking view.",
+        "link":"https://tesla-redesign.netlify.app/"
     }
 ]

@@ -8,13 +8,12 @@ const Project = (props) => {
     return (
         <div>
             <p>{props.name}</p>
-            <img src={props.image} width={400} height={300} alt={props.alt}/>
+            <img src={props.image} width={300} height={300} alt={props.alt}/>
             <p>{props.description}</p>
             
             <button onClick={()=> window.open(`${props.link}`, `_blank`)}> View </button>
         </div>
     )
 };
-
 
 export default Project;
