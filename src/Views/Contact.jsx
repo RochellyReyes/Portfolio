@@ -6,14 +6,19 @@ import Footer from "../Components/Footer";
 const Contact = () => {
     return(
         <div>
-            <div className="contactBody">
             <div className="contactText">
                 <h1>Get in Touch</h1>
                 <p>Feel free to contact me regarding any questions. I will try to respond at my earliest convenience. </p>
             </div>
 
             <MyForm/>
-            </div>
+
+            <img 
+                src="/images/contact/thanks.jpg" 
+                alt="thank you"
+                className="thankYou"
+            />
+
             <Footer/>
         </div>
     )

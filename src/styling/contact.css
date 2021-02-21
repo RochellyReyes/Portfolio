@@ -1,14 +1,21 @@
-.contactBody{
-    height: 100vh;
-}
-
 .contactText{
     padding: 1em;
 }
 
-@media (min-width:800px){
+.thankYou {
+    display: none;
+}
+
+@media (min-width: 700px){
     .contactText {
         margin: 0 2em 0 2em;
         padding: 2em 3em 0 3em;
+    }
+    
+    .thankYou {
+        display: flex;
+        width: 50%;
+        height: auto;
+        margin: 0 auto 2em auto;
     }
 }
