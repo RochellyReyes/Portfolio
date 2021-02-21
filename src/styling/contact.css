@@ -1,0 +1,11 @@
+
+.contactText{
+    padding: 1em;
+}
+
+@media (min-width:800px){
+    .contactText {
+        margin: 0 2em 0 2em;
+        padding: 2em 3em 0 3em;
+    }
+}
