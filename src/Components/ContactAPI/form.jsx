@@ -1,5 +1,5 @@
 import React from "react";
-import "../../styling/formAPI.css"
+import "../../styling/Contact/formAPI.css"
 
 //https://help.formspree.io/hc/en-us/articles/360055613373-The-Formspree-React-library
 //https://formspree.io/forms/mleokapv/integration

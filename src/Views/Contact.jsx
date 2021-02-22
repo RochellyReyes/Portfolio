@@ -1,6 +1,6 @@
 import React from "react";
 import MyForm from "../Components/ContactAPI/form";
-import "../styling/contact.css";
+import "../styling/Contact/contact.css";
 import Footer from "../Components/Footer";
 
 const Contact = () => {

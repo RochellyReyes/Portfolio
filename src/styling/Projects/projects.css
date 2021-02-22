@@ -1,0 +1,17 @@
+.checkit {
+    padding: 1em;
+}
+
+
+@media (min-width:750px){
+    .page {
+        text-align: center;
+    }
+
+    .products {
+        width: 45%;
+        height: 1000px;
+    }    
+
+}
+

@@ -1,11 +1,21 @@
-# Portfolio 
-## Rochelly Reyes 
+# My Portfolio
 
+Hello and welcome to my portfolio. Made with ReactJS and CSS. Includes the packages, API, and resources listed below. Live link can be found on [Netlify](https://rochellyreyes.netlify.app/). 
+
+
+### Packages/API used for project:
+- [React Icons](https://react-icons.github.io/react-icons/search?q=website)
+- [React Router Dom](https://reactrouter.com/web/guides/quick-start)
+- [Formspree](https://formspree.io/library)
 
 ### Resources:
+- [Compression PNG](https://formspree.io/library)
+- [Canva](https://www.canva.com/)
+- [OnlinePNGTools](https://onlinepngtools.com/create-transparent-png)
+- [Unsplash](https://unsplash.com/)
 
 
-### Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

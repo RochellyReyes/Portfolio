@@ -1,10 +1,9 @@
 import React, {Component} from "react";
 import Project from "../Components/Project/Project";
 import projectData from "../Components/Project/projects-data.json";
+import "../styling/Projects/projects.css";
 import Footer from '../Components/Footer';
 
-
-//Add a filter for products? Nice to have, maybe add later, by subjects?
 
 class Projects extends Component {
     constructor(props){
@@ -28,9 +27,15 @@ class Projects extends Component {
                 />
             );
         });
+        
         return(
-            <div>
-                {DisplayProjects}
+            <div className="page" >
+                <p className="checkit">Check out some of my work in chronological order. Additional projects are in Github. 
+                <br/>
+                Enjoy!</p>
+                <div className="project">
+                    {DisplayProjects}
+                </div>
                 <Footer/>
             </div>
         )

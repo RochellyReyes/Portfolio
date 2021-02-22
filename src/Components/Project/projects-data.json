@@ -14,6 +14,13 @@
         "link":"https://github.com/RochellyReyes/reservePage"
     },
     {
+        "name":"CLT Health Help",
+        "image":"/images/projects/CLT-HH.png",
+        "alt":"Charlotte health help website",
+        "description":"During the Code for Justice Hackathon, our team created a website designed to help the current health crisis in the Charlotte area. We included informational statistics about the current issue we face in our healthcare system, advocating resources, and local healthcare/pharmaceutical resources in the area. This project was created with basic HTML and CSS in our fifth week in the Road to Hire program.",
+        "link":"https://github.com/FreshSilvia/CLT-H-H"
+    },
+    {
         "name":"Guessing Game: Voice Recognition API",
         "image":"/images/projects/voice-guessing.png",
         "alt":"Voice Recognition API Gessing game app",
@@ -42,18 +49,11 @@
         "link":"https://github.com/RochellyReyes/To-Do-App"
     },
     {
-        "name":"",
-        "image":"",
-        "alt":"",
-        "description":"",
-        "link":""
-    },
-    {
-        "name":"",
-        "image":"",
-        "alt":"",
-        "description":"",
-        "link":""
+        "name":"Tic-tac-toe Game",
+        "image":"/images/projects/tic-tac-toe.png",
+        "alt":"tic-tac-toe game",
+        "description":"Play this interactive tic tac toe game that's created with React and CSS. Full-screen only. Once one of the players wins, the screen background will turn to confetti but it's a draw it'll turn gray and give you an option to play again.",
+        "link":"https://github.com/RochellyReyes/Tic-Tac-Toe"
     },
     {
         "name":"Pet Ace: A Pet Store",
@@ -70,10 +70,17 @@
         "link":"https://github.com/RochellyReyes/Skylark_Social"
     },
     {
+        "name":"Portfolio",
+        "image":"/images/projects/portfolio.png",
+        "alt": "Portfolio",
+        "description":"This portfolio was created with React and CSS. Packages include React Router Dom, React Icons, and Formspree API.  Feel free to check out the github repository. ",
+        "link":"https://github.com/RochellyReyes/Portfolio"
+    },
+    {
         "name":"Redesign: Tesla",
         "image":"/images/projects/inprogress.png",
         "alt":"redesign: Telsa in proggress",
-        "description":"Group project where we are redesigning  Telsa's website using ReactJS, MySQL, external API, and CSS. Packages used so far are React Router Dom and React Icons. Currently a work in progress. Get a sneak-peak by clicking view.",
+        "description":"Group project where we are redesigning Telsa's website using ReactJS, MySQL, external API, and CSS. Packages used so far are React Router Dom and React Icons. Currently a work in progress. Get a sneak-peak by clicking view.",
         "link":"https://tesla-redesign.netlify.app/"
     }
 ]

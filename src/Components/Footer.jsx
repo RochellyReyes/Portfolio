@@ -2,6 +2,8 @@ import React from 'react';
 import * as AiIcons from 'react-icons/ai';
 import '../styling/footer.css';
 
+//ReactIcons used
+
 const Footer = () => {
     return(
         <div className="footerPosition">

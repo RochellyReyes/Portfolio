@@ -1,0 +1,54 @@
+.cards {
+    border: 1px solid white ;
+    box-shadow: 5px 5px 5px gray ;
+    padding: 1em 1em 1.5em 1em;
+    margin: 1em 1em 1.5em 1em;
+    text-align: center;
+}
+
+.name {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.cards img {
+    width: 100%;
+    height: auto;
+}
+
+.description {
+    padding: 1em;
+}
+
+button {
+    outline: none;
+    padding: 10px;
+    margin-top: 5px;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    outline: none;
+    font-weight: bold;
+    border-radius: 2em;
+    background-color: #81181d;
+}
+
+
+@media (min-width:750px){
+    .cards {
+        width: 450px;
+        display: inline-block;
+        margin: 5em;
+    }
+
+    .cards img{
+        width: 400px;
+        height: 400px;
+    }
+
+    .description {
+        width: auto;
+        height: 135px;
+        overflow: auto;
+    }
+ 
+}
