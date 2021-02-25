@@ -1,8 +1,7 @@
 .cards {
-    border: 1px solid white ;
-    box-shadow: 5px 5px 5px gray ;
+    border: 1px solid darkgray ;
     padding: 1em 1em 1.5em 1em;
-    margin: 1em 1em 1.5em 1em;
+    margin: 1.5em;
     text-align: center;
 }
 
@@ -37,7 +36,9 @@ button {
     .cards {
         width: 450px;
         display: inline-block;
-        margin: 5em;
+        margin: 1em 1em 1.5em 1em;
+
+
     }
 
     .cards img{
