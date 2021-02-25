@@ -97,14 +97,15 @@ form select {
   text-transform: none;
 }
 
-@media (min-width:800px){
+@media (min-width:750px){
     form {
         width: 60%;
-        margin: 2em;
+        margin: 0 auto;
         padding: 3em;
     }
 
     form button {
         cursor: pointer;
+
     }
 }
