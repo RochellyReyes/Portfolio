@@ -18,7 +18,6 @@ const Contact = () => {
                 alt="thank you"
                 className="thankYou"
             />
-
             <Footer/>
         </div>
     )
