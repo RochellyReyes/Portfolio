@@ -78,7 +78,7 @@
     },
     {
         "name":"Redesign: Tesla",
-        "image":"/images/projects/inprogress.png",
+        "image":"/images/projects/redesign-tesla-inprogrss.png",
         "alt":"redesign: Telsa in proggress",
         "description":"Group project where we are redesigning Telsa's website using ReactJS, MySQL, external API, and CSS. Packages used so far are React Router Dom and React Icons. Currently a work in progress. Get a sneak-peak by clicking view.",
         "link":"https://tesla-redesign.netlify.app/"
