@@ -5,6 +5,7 @@ const Project = (props) => {
 
     return (
         <div className="cards">
+
             <p className="name">{props.name}</p>
             
             <img src={props.image} alt={props.alt}/>

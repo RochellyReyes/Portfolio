@@ -49,6 +49,13 @@
         "link":"https://github.com/RochellyReyes/To-Do-App"
     },
     {
+        "name":"To Do App: mySQL & Node",
+        "image":"/images/projects/todo-sql,node.png",
+        "alt":"todo app built with node and mySQL",
+        "description":"Interactive to do app build with mySQL, Node, and Express API. You can add, mark as complete, and then delete these tasks with a click. Enjoy!",
+        "link":"https://github.com/RochellyReyes/To-Do-API"
+    },
+    {
         "name":"Tic-tac-toe Game",
         "image":"/images/projects/tic-tac-toe.png",
         "alt":"tic-tac-toe game",
@@ -75,12 +82,5 @@
         "alt": "Portfolio",
         "description":"This portfolio was created with React and CSS. Packages include React Router Dom, React Icons, and Formspree API.  Feel free to check out the github repository. ",
         "link":"https://github.com/RochellyReyes/Portfolio"
-    },
-    {
-        "name":"Redesign: Tesla",
-        "image":"/images/projects/redesign-tesla-inprogrss.png",
-        "alt":"redesign: Telsa in proggress",
-        "description":"Group project where we are redesigning Telsa's website using ReactJS, MySQL, external API, and CSS. Packages used so far are React Router Dom and React Icons. Currently a work in progress. Get a sneak-peak by clicking view.",
-        "link":"https://tesla-redesign.netlify.app/"
     }
 ]

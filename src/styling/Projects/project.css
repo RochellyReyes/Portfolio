@@ -3,6 +3,7 @@
     padding: 1em 1em 1.5em 1em;
     margin: 1.5em;
     text-align: center;
+    border-radius: 2px;
 }
 
 .name {
@@ -13,6 +14,7 @@
 .cards img {
     width: 100%;
     height: auto;
+    border-radius: 2px;
 }
 
 .description {
@@ -29,7 +31,11 @@ button {
     font-weight: bold;
     border-radius: 2em;
     background-color: #81181d;
+    cursor: pointer;
 }
+
+
+
 
 
 @media (min-width:750px){
@@ -37,8 +43,11 @@ button {
         width: 450px;
         display: inline-block;
         margin: 1em 1em 1.5em 1em;
+        transition: box-shadow 0.4s ease;
+    }
 
-
+    .cards:hover{
+        box-shadow: 0 0 13px white;
     }
 
     .cards img{
@@ -51,5 +60,5 @@ button {
         height: 135px;
         overflow: auto;
     }
- 
 }
+

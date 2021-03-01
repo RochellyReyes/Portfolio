@@ -14,6 +14,7 @@ class Projects extends Component {
             filterProjects: projectData,
         }
     }
+    
     render() {
         const DisplayProjects = this.state.filterProjects.map((project, i) => {
             return(
